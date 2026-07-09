@@ -19,6 +19,13 @@ The only avatar-evolution build is a 2020E client.
 
 May 2020 and above clients have broken corescripts, as they (probably) get big parts of the CoreGui from ROBLOX servers or something like that. I honestly don't know.
 
+## Images
+2018 build. FIBv12
+<img width="1857" height="965" alt="image" src="https://github.com/user-attachments/assets/44963d31-3b7f-4a31-b3f9-4b3b777a4003" />
+2020E build. Feb. 2020.
+<img width="1764" height="965" alt="image" src="https://github.com/user-attachments/assets/4cfaba19-acbf-4191-9275-ae3d411f6f58" />
+
+
 ## Compiling
 You really want to compile this?
 Well then, beware, the code is bad. A never-nesters nightmare.
