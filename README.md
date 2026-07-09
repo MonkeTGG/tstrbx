@@ -5,10 +5,16 @@ All the files are called "tstrblx" because I made a spelling mistake when making
 You have to provide your own clients, I'm not giving them to you.
 They also have to be studio clients.
 
-tip: you can still download 2020+ clients from [roblox servers](https://setup.rbxcdn.com/DeployHistory.txt).
+tip: you can still download 2020E+ clients from [ROBLOX servers](https://setup.rbxcdn.com/DeployHistory.txt).
 I'll let you figure out how to put everything together.
 
-another tip: https://archive.org/download/roblox-clients-2006-2021
+another tip: https://archive.org/download/roblox-clients-2006-2021 and https://archive.roblonium.com/Client/Windows/RobloxStudio/
+
+v12 Future-is-Bright is a 2018M client.
+Early Future-is-Bright builds are 2017.
+The only avatar-evolution build is a 2020E client.
+
+May 2020 and above clients have broken corescripts, as they (probably) get big parts of the CoreGui from ROBLOX servers or something like that. I honestly don't know.
 
 ## Compiling
 You really want to compile this?
