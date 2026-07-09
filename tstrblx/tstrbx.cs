@@ -1,4 +1,15 @@
-﻿using System;
+﻿// dear random guy reading this code
+// if you're wondering, the "old tstrbootstrapper" was a project i was making
+// that would load excusively 2017 clients. i was going to make it only
+// intergrate into novetus, and just make it a 2017 novetus client.
+// it was also a cli util, so if you ever wondered what i meant with "tstrbootstrapper"
+// there you go
+// that's also why this is called tstrbx
+// tstrbootstrapper stood for "Twenty Seventeen Roblox Bootstrapper"
+// tstr in this project doens't stand for anything, i just kept it.
+// after all, i tested this with only 2020E clients.
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
