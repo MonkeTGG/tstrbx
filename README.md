@@ -2,6 +2,9 @@
 This launcher has no regards for keeping your servers safe aside from FilteringEnabled.
 All the files are called "tstrblx" because I made a spelling mistake when making the launcher gui and decided tstrbx sounded nicer.
 
+I haven't tested 2017 and 2019, if you can even get 2019 running.
+2018 FIBv12 works fine in my testing, though doesn't remove all the studio bits when joining a server for some reason.
+
 You have to provide your own clients, I'm not giving them to you.
 They also have to be studio clients.
 
@@ -10,7 +13,7 @@ I'll let you figure out how to put everything together.
 
 another tip: https://archive.org/download/roblox-clients-2006-2021 and https://archive.roblonium.com/Client/Windows/RobloxStudio/
 
-v12 Future-is-Bright is a 2018M client.
+v12 Future-is-Bright is (apparently) a 2018M client. It feels more like a 2017 client though.
 Early Future-is-Bright builds are 2017.
 The only avatar-evolution build is a 2020E client.
 
